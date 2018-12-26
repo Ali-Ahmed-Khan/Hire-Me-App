@@ -37,7 +37,7 @@ app.post("/", (req, res, next) => {
     secure: false,
     auth: {
       user: "me@aliahmedkhan.me",
-      pass: "53cRaySyCXp%dV"
+      pass: "SuperSecret"
     }
   });
   let mailOptions = {
