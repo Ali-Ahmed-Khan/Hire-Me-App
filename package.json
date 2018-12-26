@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Ali-Ahmed-Khan/Hire-Me-App/issues"
   },
-  "homepage": "https://github.com/Ali-Ahmed-Khan/Hire-Me-App#readme"
+  "homepage": "https://github.com/Ali-Ahmed-Khan/Hire-Me-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jade": "^1.11.0",
+    "mongoose": "^5.4.0"
+  }
 }
